@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACI,wBAAyB,CACzB,UAAW,CACX,cAAiB,CACjB,iBACJ,CACA,YACI,eACJ","file":"main.afaae769.chunk.css","sourcesContent":[".jumbtron{\r\n    background-color: #f53b57;\r\n    color: #fff;\r\n    padding: 70px 0px;\r\n    text-align: center;\r\n}\r\n.brand-icon{\r\n    font-size: 100px;\r\n}"]}
